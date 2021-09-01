@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sar-taj107
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C,C++ & Python
+- 🌱 I’m currently learning C, C++ & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
