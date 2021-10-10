@@ -8,5 +8,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning C, C++ & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sar-taj107&theme=radical)
+--->
