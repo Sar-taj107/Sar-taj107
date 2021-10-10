@@ -28,7 +28,9 @@ I’m a 2nd-year student pursuing a Bachelors’s in Information Technology stud
 
 <p align="left"> <a href="https://twitter.com/_tajuddin_" target="blank"><img src="https://img.shields.io/twitter/follow/_tajuddin_?logo=twitter&style=for-the-badge" alt="_tajuddin_" /></a> </p>
 
+<!--- 
 - 📫 How to reach me **hussainarman065@gmail.com**
+--->
 <br><br>
 <hr>
 
