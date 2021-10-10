@@ -35,7 +35,7 @@ I’m a 2nd-year student pursuing a Bachelors’s in Information Technology stud
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/_tajuddin_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_tajuddin_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tajconnect-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Md Tajuddin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tajconnect/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Md Tajuddin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_tajuddin_107" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_tajuddin_107" height="50" width="50" /></a>
 </p>
 
