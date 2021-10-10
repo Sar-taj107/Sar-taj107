@@ -53,3 +53,4 @@ I’m a 2nd-year student pursuing a Bachelors’s in Information Technology stud
 <p align="center">
   <img src="https://github.com/Sar-taj107/Sar-taj107/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+[![Sar-taj107'sgithub activity graph](https://activity-graph.herokuapp.com/graph?username=Sar-taj107&theme=dracula)](https://github.com/Sar-taj107/github-readme-activity-graph)
