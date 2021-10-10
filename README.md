@@ -22,15 +22,14 @@ I’m a 2nd-year student pursuing a Bachelors’s in Information Technology stud
 <p>
 <a align= "center" href="https://github.com/Sar-taj107">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sar-taj107&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<!--- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> ---> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Sar-taj107&count_private=true&theme=radical&show_icons=true" />
 
 <p align="left"> <a href="https://twitter.com/_tajuddin_" target="blank"><img src="https://img.shields.io/twitter/follow/_tajuddin_?logo=twitter&style=for-the-badge" alt="_tajuddin_" /></a> </p>
 
-<!--- 
+
 - 📫 How to reach me **hussainarman065@gmail.com**
---->
 <br><br>
 <hr>
 
