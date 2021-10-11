@@ -65,3 +65,12 @@ I’m a 2nd-year student pursuing a Bachelors’s in Information Technology stud
 
 <br/>
 <br/>
+<p align="center">
+  <img src="https://github.com/Sar-taj107/Sar-taj107/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
+
+
+
+
