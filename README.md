@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
          height="45"
          width="45" />, I'm Md Tajuddin</h1>
 <h5 align="center">
-I’m a 2nd-year student pursuing a Bachelors’s in Information Technology studies from MAKAUT (WB). I am a code enthusiast, Learner, Aspiring Web Dev. 
+I’m a 2nd-year student pursuing a Bachelors’s in Information Technology studies from MAKAUT (WB). I am a coder , Learner, Web Dev Enthusiast. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sar-taj107&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
 <p>
