@@ -37,7 +37,7 @@ I’m a 2nd-year student pursuing a Bachelors’s in Information Technology stud
    
 </p>
 
-- 📫 How to reach me **hussainarman065@gmail.com**
+- 📫 How to reach me **hussainarmaan065@gmail.com**
 <br><br>
 <hr>
 
