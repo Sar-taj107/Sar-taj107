@@ -69,7 +69,7 @@ I’m a 2nd-year student pursuing a Bachelor’s in Information Technology studi
 <br/>
 
 ![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
-# Learn & Grow!!😀 
+# Learn, Contribute & Grow!!😀 
 
 
 
