@@ -32,7 +32,7 @@ I’m a 2nd-year student pursuing a Bachelor’s in Information Technology studi
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/c-programming.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/python--v2.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
-    
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/nolan/96/github.png"/> </a>
   
    
 </p>
