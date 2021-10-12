@@ -33,8 +33,9 @@ I’m a 2nd-year student pursuing a Bachelor’s in Information Technology studi
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/python--v2.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/nolan/96/github.png"/> </a>
-  
-   
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+         
 </p>
 
 - 📫 How to reach me **hussainarmaan065@gmail.com**
