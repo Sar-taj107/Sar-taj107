@@ -52,9 +52,9 @@ I’m a 2nd-year student pursuing a Bachelor’s in Information Technology studi
 
 <hr>
 
-<p align="center">
+
 ![Sar-taj107 snake gif](https://github.com/Sar-taj107/Sar-taj107/blob/output/github-contribution-grid-snake.svg)
-</p>
+
 
 <a href="https://github.com/Sar-taj107/github-readme-activity-graph"><img alt="Md Tajuddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sar-taj107&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
