@@ -17,6 +17,10 @@ You can click the Preview link to take a look at your changes.
          height="45"
          width="45" />, I'm Md Tajuddin</h1>
 <h5 align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
+</p>
+
 I’m a 2nd-year student pursuing a Bachelor’s in Information Technology studies from MAKAUT (WB). I am a coder , Learner, Web Dev Enthusiast. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sar-taj107&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
