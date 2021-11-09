@@ -48,6 +48,10 @@ I’m a 2nd-year student pursuing a Bachelor’s in Information Technology studi
 <a href="https://twitter.com/_tajuddin_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_tajuddin_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tajconnect/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Md Tajuddin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_tajuddin_107" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_tajuddin_107" height="50" width="50" /></a>
+<a href="https://hackerrank.com/_tajuddin" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="64" height="64"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="#2ecc71"></path><g fill="#000000"><path d="M85.9895,16.125c-9.52988,0 -56.23779,26.7885 -60.95166,34.9585c-4.71925,8.17537 -4.71925,61.70038 0,69.84351c4.73538,8.16463 51.44329,34.948 60.95166,34.948c9.4815,0 56.18966,-26.76775 60.94116,-34.927c4.76763,-8.18075 4.76763,-61.74749 0,-69.896v-0.0105c-4.78913,-8.15388 -51.49191,-34.9165 -60.94116,-34.9165zM85.97901,26.93799c9.12137,1.89737 45.26615,22.60213 51.5979,29.552c2.9025,8.82037 2.89712,50.17302 0,59.00952c-6.28875,6.93913 -42.46577,27.6705 -51.5979,29.5625c-9.12675,-1.88125 -45.27741,-22.60213 -51.57691,-29.552c-2.87563,-8.858 -2.87563,-50.17277 0,-59.02002c6.28338,-6.94988 42.44478,-27.67075 51.57691,-29.552zM69.875,48.375l-10.75,10.75h5.375v53.75h10.75v-21.5h21.5v21.5h-5.375l10.75,10.75l10.75,-10.75h-5.375v-48.375h-10.75v16.125h-21.5v-21.5h5.375z"></path></g></g></svg> alt="_tajuddin_107" height="50" width="50" /></a>alt="_tajuddin" height="50" width="50" /></a>
 </p>
 
 <hr>
