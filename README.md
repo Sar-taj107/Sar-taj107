@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder!;Self%20taught%20Python%20Learner%20&%20Programmer&center=true&width=500&height=50">
 </p>
 
-I’m a Pre-final year student currently pursuing a Bachelor’s in Information Technology studies from MAKAUT (WB). I am a coder , Learner, Web Dev Enthusiast. 
+I’m a Pre-final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sar-taj107&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
 <p>
