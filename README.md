@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Md Tajuddin</h1>
+         width="45" /> I'm Md Tajuddin</h1>
 <h5 align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder!;Self%20taught%20Java%20Learner%20&%20Programmer&center=true&width=500&height=50">
