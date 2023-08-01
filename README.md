@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
          width="45" />, I'm Md Tajuddin</h1>
 <h5 align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder!;Self%20taught%20Python%20Learner%20&%20Programmer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder!;Self%20taught%20Java%20Learner%20&%20Programmer&center=true&width=500&height=50">
 </p>
 
 I’m a Pre-final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
