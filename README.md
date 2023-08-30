@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
          width="45" /> I'm Md Tajuddin</h1>
 <h5 align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder!;Self%20taught%20Java%20Learner%20&%20Programmer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech%20Enthusiast!;Self%20taught%20Java%20Learner!%20&%20Programmer&center=true&width=500&height=50">
 </p>
 
 I’m a Final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
@@ -53,7 +53,7 @@ I’m a Final year student currently pursuing Bachelor’s in Information Techno
 <a href="https://twitter.com/_tajuddin_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_tajuddin_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tajconnect/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Md Tajuddin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_tajuddin_107" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_tajuddin_107" height="50" width="50" /></a>
-<a href="https://hackerrank.com/_tajuddin" target="blank"><img align="center" src="https://img.icons8.com/windows/64/000000/hackerrank.png" 
+<a href="https://hackerrank.com/tajuddin" target="blank"><img align="center" src="https://img.icons8.com/windows/64/000000/hackerrank.png" 
 alt="_tajuddin" height="50" width="50" /></a>
 </p>
 
