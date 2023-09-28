@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![Matrix SVG](https://github.com/Sar-taj107/Sar-taj107/blob/main/matrix.svg)](#)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45"
+         height="40"
          width="45" /> I'm Md Tajuddin</h1>
 <h5 align="center">
 <p align="center">
