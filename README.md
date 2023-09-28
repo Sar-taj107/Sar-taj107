@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sar-taj107&theme=radical)
 --->
 [![Matrix SVG](https://github.com/Sar-taj107/Sar-taj107/blob/main/matrix.svg)](#)
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Md Tajuddin</h1>
