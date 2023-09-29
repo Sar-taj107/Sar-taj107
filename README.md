@@ -32,6 +32,11 @@ I’m a Final year student currently pursuing Bachelor’s in Information Techno
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) 
 <br><br>
+## 👨🏻‍💻 Coding Profile
+
+
+
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/tajuddin_107/)
 
 🚀 Languages and Tools:
 <p align="left"> 
