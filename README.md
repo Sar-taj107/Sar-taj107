@@ -30,6 +30,9 @@ I’m a Final year student currently pursuing Bachelor’s in Information Techno
 
 <p align="left"> <a href="https://twitter.com/_tajuddin_" target="blank"><img src="https://img.shields.io/twitter/follow/_tajuddin_?logo=twitter&style=for-the-badge" alt="_tajuddin_" /></a> </p>
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) 
+<br><br>
+
 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/c-programming.png"/> </a>
