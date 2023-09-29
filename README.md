@@ -36,7 +36,7 @@ I’m a Final year student currently pursuing Bachelor’s in Information Techno
 
 
 
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/tajuddin_107/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/tajuddin_107/)
 
 🚀 Languages and Tools:
 <p align="left"> 
