@@ -49,7 +49,7 @@ I’m a Final year student currently pursuing Bachelor’s in Information Techno
 <hr>
 
 <!---<h3 align="center">Connect with me:</h3> --->
-<p>Find out more about me & feel free to connect with me here: <img style="display: inline-block" src="https://github.com/Sar-taj107/Sat-taj107/blob/main/Assets/Handshake.gif" height="33px" /></p>
+<p>Find out more about me & feel free to connect with me here:<img style="display: inline-block" src="https://github.com/Sar-taj107/Sar-taj107/blob/main/Assets/Handshake.gif" height="33px" /></p>
 <p align="center">
 <a href="https://twitter.com/_tajuddin_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_tajuddin_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tajconnect/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Md Tajuddin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
