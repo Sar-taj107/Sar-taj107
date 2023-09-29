@@ -12,10 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sar-taj107&theme=radical)
 --->
 [![Matrix SVG](https://github.com/Sar-taj107/Sar-taj107/blob/main/matrix.svg)](#)
-<h1 align="center">Hi <img src="https://github.com/Sar-taj107/Sar-taj107/blob/main/Assets/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Md Tajuddin</h1>
+<h1 align="center">Hi <img style="display: inline-block" src="https://github.com/Sar-taj107/Sar-taj107/blob/main/Assets/wave.gif" height="40px" /> I'm Md Tajuddin</h1>
 <h5 align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech%20Enthusiast!;Self%20taught%20Java%20Learner!%20&%20Programmer&center=true&width=500&height=50">
