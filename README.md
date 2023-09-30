@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech%20Enthusiast!;Self%20taught%20Java%20Learner!%20&%20Programmer&center=true&width=500&height=50">
 </p>
 
+[![An image of @sartaj107's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sartaj107)](https://holopin.io/@sartaj107)
+<br><br>
 I’m a Final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sar-taj107&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
