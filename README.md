@@ -10,17 +10,21 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sar-taj107&theme=radical)
+## 🌱 I’m currently learning ...
 --->
-[![Matrix SVG](https://github.com/Sar-taj107/Sar-taj107/blob/main/matrix.svg)](#)
+
 <h1 align="center">Hi <img style="display: inline-block" src="https://github.com/Sar-taj107/Sar-taj107/blob/main/Assets/wave.gif" height="40px" /> I'm Md Tajuddin</h1>
 <h5 align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech%20Enthusiast!;Self%20taught%20Java%20Learner!%20&%20Programmer&center=true&width=500&height=50">
 </p>
   
-I’m a Final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
+[![Matrix SVG](https://github.com/Sar-taj107/Sar-taj107/blob/main/matrix.svg)](#)
+## 🌱 Currently learning ...
+<h5 align="center">I’m a Final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
 </h5>
 
+##
 [![An image of @sartaj107's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sartaj107)](https://holopin.io/@sartaj107)
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sar-taj107&label=Profile%20views&color=0e75b6&style=flat" alt="Sar-taj107" /> </p>
@@ -130,11 +134,11 @@ I’m a Final year student currently pursuing Bachelor’s in Information Techno
 <a href="https://twitter.com/_tajuddin_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_tajuddin_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tajconnect/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Md Tajuddin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_tajuddin_107" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_tajuddin_107" height="50" width="50" /></a>
-
 </p>
 
 <hr>
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thanks+For+Reading!&width=1000&height=270)](https://github.com/Akshay090/svg-banners)
 
 ![Sar-taj107 snake gif](https://github.com/Sar-taj107/Sar-taj107/blob/output/github-contribution-grid-snake.svg)
 <img src="https://github.com/Sar-taj107/Sar-taj107/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
