@@ -140,11 +140,13 @@ You can click the Preview link to take a look at your changes.
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thanks+For+Reading!&width=1000&height=270)](https://github.com/Akshay090/svg-banners)
 
+<!--
 ![Sar-taj107 snake gif](https://github.com/Sar-taj107/Sar-taj107/blob/output/github-contribution-grid-snake.svg)
 <img src="https://github.com/Sar-taj107/Sar-taj107/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 <img align="center" src="./user-contribution.svg">
 <a href="https://github.com/Sar-taj107/github-readme-activity-graph"><img alt="Md Tajuddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sar-taj107&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+-->
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sar-taj107&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/Sar-taj107/github-readme-activity-graph)
 <br/>
 <br/>
  <a href="https://github.com/Sar-taj107/github-readme-stats"><img alt="Md tajuddin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sar-taj107&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
