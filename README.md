@@ -145,7 +145,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <a href="https://twitter.com/_tajuddin_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_tajuddin_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tajconnect/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Md Tajuddin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/_tajuddin_107" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_tajuddin_107" height="50" width="50" /></a>
+<a href="https://instagram.com/_tajuddin_107" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_tajuddin_107" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.discord.com/tajuddin_777/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/discord.png" alt="Md Tajuddin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://hashnode.com/taj7/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYBYAjBk_nWZXzjvzq4Zq-onExQCmAFTibBu0y04xWA&s" alt="Md Tajuddin" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
