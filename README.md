@@ -52,6 +52,9 @@ You can click the Preview link to take a look at your changes.
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/__tajuddin)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/hussainarman065)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tajuddin_777)
+[![OneCompiler](https://img.shields.io/badge/OneCompiler-blue.svg?style=for-the-badge&logo=OneCompiler&logoColor=green)](https://onecompiler.com/users/3wtsw7v7s)
+
+
 
 
 
