@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tajuddin_777)
 [![OneCompiler](https://img.shields.io/badge/OneCompiler-blue.svg?style=for-the-badge&logo=OneCompiler&logoColor=green)](https://onecompiler.com/users/3wtsw7v7s)
 [![CodingNinjas](https://img.shields.io/badge/CodingNinjas-orange.svg?style=for-the-badge&logo=CodingNinjas&logoColor=black)](https://www.codingninjas.com/studio/profile/3f104ded-b6fa-46d7-9809-0119f040e06c)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-darkblue?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@mdtajuddin.it24)
 
 
 
