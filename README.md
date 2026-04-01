@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech%20Enthusiast!;Self%20taught%20Java%20Learner!%20&%20Programmer&center=true&width=500&height=50">
   --->
 </p>
-<h5 align="center">I’m a Final year student currently pursuing Bachelor’s in Information Technology studies from MAKAUT (WB). Coding , Learner, Web Dev Enthusiast. 
+<h5 align="center">Information Technology graduate and IT professional, enthusiastic about coding, web development, and continuously enhancing technical skills.
 </h5>
   
 [![Matrix SVG](https://github.com/Sar-taj107/Sar-taj107/blob/main/matrix.svg)](#)
